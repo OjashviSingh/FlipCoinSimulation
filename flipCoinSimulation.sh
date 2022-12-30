@@ -1,3 +1,5 @@
+target_count=21
+minimum_difference=2
 heads_count=0
 tails_count=0
 flips_count=0
